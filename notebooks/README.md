@@ -12,4 +12,6 @@ File name: `cdc-vaccine-hesitancy-political-party.ipynb`
 ## COVID-19 Deaths by State Governer Political Party
 File name: `covid-19-deaths-by-state-governer-political-party.ipynb`
 
+## Influential Factors on Vaccine Hesitancy
+File name: `influential-ethnicity-populations-on-vac-hesitancy.ipynb`
 
