@@ -1,5 +1,8 @@
 # Notebooks
 
+## Vaccine Hesitancy and Vaccination Rate
+File name: `cdc-hesitancy-actualvaccinationrate.ipynb`
+
 ## Vaccination Rate and Ethnicity Groups
 File name: `cdc-vaccinationrate-ethnicity .ipynb`
 
